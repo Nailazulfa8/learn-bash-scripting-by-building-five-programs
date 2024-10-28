@@ -54,3 +54,12 @@ man echo
 __vsc_prompt_cmd_original
 touch countdown.sh
 chmod =x countdown.sh
+which bash
+chmod =x countdown.sh
+chmod +x countdown.sh
+sudo chmod +x countdown.sh
+mv countdown.sh countdown1.sh
+touch countdown1.sh
+chmod +x countdown1.sh
+touch countdown.sh
+chmod +x countdown.sh
