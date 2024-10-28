@@ -63,3 +63,5 @@ touch countdown1.sh
 chmod +x countdown1.sh
 touch countdown.sh
 chmod +x countdown.sh
+./ countdown.sh
+./countdown.sh
