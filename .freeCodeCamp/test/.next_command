@@ -130,3 +130,4 @@ which bash
 printenv
 echo $LANG
 declare -p
+echo $RANDOM
