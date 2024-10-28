@@ -129,3 +129,4 @@ which bash
 ./bingo.sh
 printenv
 echo $LANG
+declare -p
